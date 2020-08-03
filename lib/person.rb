@@ -1,6 +1,6 @@
 def Person
 end 
 
-adele_goldberg = nil
+adele_goldberg = Person.new
 
-alan_kay = nil
+alan_kay = Person.new
