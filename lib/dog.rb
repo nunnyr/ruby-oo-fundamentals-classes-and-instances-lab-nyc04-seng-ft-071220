@@ -3,5 +3,5 @@ class Dog
 end 
 
 fido = nil
-snoopy 
-lassie 
+snoopy = nil
+lassie = nil
