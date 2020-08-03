@@ -2,6 +2,6 @@ class Dog
   
 end 
 
-fido 
+fido = nil
 snoopy 
 lassie 
